@@ -8,4 +8,5 @@ const instance = axios.create({
     Authorization: `Bearer 토큰`,
   },
 });
+
 export default instance;
